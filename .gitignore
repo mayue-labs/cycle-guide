@@ -1,0 +1,6 @@
+.DS_Store
+.AppleDouble
+._*
+node_modules/
+work/
+*.log
